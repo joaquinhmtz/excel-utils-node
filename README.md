@@ -3,9 +3,9 @@
 ```
 NodeJs: v14.20.1
 ```
-# Project Title
+# Excel Utils
 
-Simple overview of use/purpose.
+El propósito de este repositorio es para crear funcionalidades globales para su implementación rápida en lectura, generación de XLXS, etc.
 
 ## Description
 
